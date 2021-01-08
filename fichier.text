@@ -1,0 +1,14 @@
+salut tout le monde
+ 
+Acer@Acer-loucif MINGW64 ~
+$ cd Desktop/
+
+Acer@Acer-loucif MINGW64 ~/Desktop
+$ cd test/
+
+Acer@Acer-loucif MINGW64 ~/Desktop/test
+$ touch fichier.text
+
+Acer@Acer-loucif MINGW64 ~/Desktop/test
+$ nano fichier.text
+
